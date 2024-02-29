@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+Публичный IP адрес: 158.160.117.228 \
+Фронтенд, домен: https://student.nomoreparties.co.nomoredomainswork.ru \
+Бэкенд: домен: https://api.student.nomoreparties.nomoredomainswork.ru
